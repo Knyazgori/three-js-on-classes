@@ -10,6 +10,7 @@ export default {
     this.createScene();
     // # LIGHT
     this.createLight();
+    
 
     // # UPDATE
     /// Постоянное обновление результата
